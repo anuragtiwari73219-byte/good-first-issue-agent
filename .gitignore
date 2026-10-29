@@ -1,0 +1,17 @@
+﻿.venv/
+.env
+__pycache__/
+*.py[cod]
+
+# Local backups and snapshots
+agent_backup.py
+agent_before_code_search.py
+agent_current.txt
+test_issue_analysis.backup.py
+
+# Temporary debugging files
+diagnose_tool.py
+indentation_test.py
+
+# Separate repository not part of this project
+/pyrite/
